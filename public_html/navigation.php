@@ -12,23 +12,23 @@
           </li> -->
 
           <li class="nav-item">
-            <a class="nav-link" href="about.html">About</a>
+            <a class="nav-link" href="about.php">About</a>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="beermenu.html">Drink Menu</a>
+            <a class="nav-link" href="beermenu.php">Drink Menu</a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="foodmenu.html">Food Menu</a>
+            <a class="nav-link" href="foodmenu.php">Food Menu</a>
           </li>
         
             <li class="nav-item">
-            <a class="nav-link" href="events.html">Upcoming events</a>
+            <a class="nav-link" href="events.php">Upcoming events</a>
           </li>
           
           <li class="nav-item">
-            <a class="nav-link" href="staff.html">Meet the staff</a>
+            <a class="nav-link" href="staff.php">Meet the staff</a>
           </li>
           
         </ul>
