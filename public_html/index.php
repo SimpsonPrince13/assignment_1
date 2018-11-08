@@ -32,7 +32,7 @@
 
 <h2>Menu</h2>
 
-    <nav>
+
         <ul>
             <li>
                 <a href="index.html">Home Page</a>
@@ -58,7 +58,7 @@
                 <a href="staff.html">Meet the staff</a>
             </li>
         </ul>
-    </nav>
+
     
     <form action="/action_page.php">
   <div class="form-group">

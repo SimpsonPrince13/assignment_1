@@ -42,7 +42,7 @@
         11am-2am
 </div>
     <p> Below are links to our beer and food menus.</p>
-    <nav>
+   
         <ul>
             <li>
                 <a href="beermenu.html">Beer Menu</a>
@@ -52,7 +52,7 @@
                 <a href="foodmenu.html">Food Menu</a>
             </li>
         </ul>
-    </nav>
+    
 
 <?php include 'footer.php'; ?>
 
